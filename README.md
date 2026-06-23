@@ -69,10 +69,13 @@ I'm particularly drawn to the intersection of **backend engineering**, **financi
 **AI & Automation**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-**Enterprise**
+**Enterprise & AEC Tools**
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-006EAF?style=flat&logo=autodesk&logoColor=white)
 
 ---
 
