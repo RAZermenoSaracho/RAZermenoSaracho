@@ -23,6 +23,7 @@ I'm particularly drawn to the intersection of **backend engineering**, **financi
 
 ## What I'm Working On
 
+- 🔐 **OrderKeeper** — Decentralized limit-order keeper system for EVM chains (capstone project)
 - 🏦 **Capital One** — Backend software for financial systems and APIs
 - 📊 **QuantLab** — Algorithmic trading & quantitative research platform
 - 💸 **FlowLedger** — Personal finance SaaS with shared-expense management
@@ -83,7 +84,8 @@ I'm particularly drawn to the intersection of **backend engineering**, **financi
 
 | Project | Description | Stack |
 |---|---|---|
-| [**QuantLab**](https://razs.vercel.app) | Algorithmic trading, backtesting & quantitative research platform | Python · PostgreSQL · REST APIs |
+| [**OrderKeeper**](https://orderkeeper.razs.dev/) | Decentralized limit-order keeper for EVM chains — trust-minimized execution with on-chain Chainlink price re-verification | Solidity · Foundry · TypeScript · Fastify |
+| [**QuantLab**](https://quantlab-dev.razs.dev/) | Algorithmic trading, backtesting & quantitative research platform | Python · PostgreSQL · REST APIs |
 | [**FlowLedger**](https://flowledger.razs.dev) | Personal finance SaaS with authentication & shared-expense management | React · TypeScript · PostgreSQL |
 | **AI Server** | Personal AI orchestration platform integrating coding assistants & automation workflows | Python · OpenAI APIs |
 | **Blockchain Projects** | ERC-20 tokens, access control, token sales & time-locked wallets | Solidity · Foundry · OpenZeppelin |
